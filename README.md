@@ -1,8 +1,8 @@
-# Chicago Crime Data Analysis using MongoDB
+# Chicago Crime Data Analysis using MongoDB (see uploaded slides for details)
 
-three relevant JSON files are used - 1000 documents for manipulation
+Three relevant JSON files are used - 1000 documents for manipulation
 
-various data type conversion steps in MongoDB
+Various data type conversion steps in MongoDB
 
 Data denormalization steps performzed to embed three collections into one.
 
